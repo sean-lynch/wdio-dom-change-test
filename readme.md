@@ -1,6 +1,4 @@
-# wdio dom change issue example
-
-
+Example to repro https://github.com/webdriverio/webdriverio/issues/1396
 
 ## Setup
 
